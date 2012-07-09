@@ -20,11 +20,11 @@ turtle.forward(100)
 turtle.right(60)
 turtle.forward(100)
 
-# draw the right lower side of the hexagon
+# draw the left lower side of the hexagon
 turtle.right(60)
 turtle.forward(100)
 
-# draw the right upper side of the hexagon
+# draw the left upper side of the hexagon
 turtle.right(60)
 turtle.forward(100)
 
