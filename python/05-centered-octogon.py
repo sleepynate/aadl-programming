@@ -2,7 +2,7 @@ import turtle
 
 # move the cursor to where the top-right corner should be if we're centered
 turtle.up()
-turtle.goto(-50, 50)
+turtle.goto(-50, 100)
 
 # draw the top of the octogon
 turtle.down()
